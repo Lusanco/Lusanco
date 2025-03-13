@@ -25,9 +25,10 @@ Led a team to develop a platform connecting service providers and clients in Pue
 ### [Alpine.js Static Website](https://github.com/Lusanco/alpinejs-static-website)
 A responsive, static website project built with Alpine.js, emphasizing simplicity and ease of maintenance.
 
+<!-- 
 ## 📈 GitHub Stats
-
 ![Luis Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lusanco&show_icons=true)
+-->
 
 ## 📫 How to Reach Me
 
