@@ -89,23 +89,7 @@ Lightweight static site for non-profit organization with easy maintenance.
 
 ## Professional Experience
 
-**Lead Developer** @ PalitasPR (Mar 2024 - July 2024)
-
-- Led team of 5 developers building full-stack marketplace platform
-- Mentored frontend team on Svelte, TailwindCSS, and Axios
-- Coordinated project timelines and facilitated team communication
-
-**Front End Developer** @ Freelance Clients (2023 - 2024)
-
-- Delivered production websites for multiple clients
-- Handled full development lifecycle from design to deployment
-- Managed client communication and project requirements
-
-**Front End Developer (Apprenticeship)** @ ZOMIO Inc. (June 2022 - Sept 2023)
-
-- Built responsive company website and MQTT-powered dashboards
-- Migrated domains and configured DNS settings
-- Released applications with SSL certificates
+WIP
 
 ---
 
