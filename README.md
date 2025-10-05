@@ -89,7 +89,31 @@ Lightweight static site for non-profit organization with easy maintenance.
 
 ## Professional Experience
 
-WIP
+### Front End Web Developer (Freelance Client Work)
+
+**Sept 2024 — Oct 2024 | [Live Demo](https://lusanco.github.io/svelte-hvac-portfolio/) | [GitHub Repo](https://github.com/Lusanco/svelte-hvac-portfolio)**
+
+- Created a responsive **Svelte** web application to showcase HVAC services.
+- Designed a mobile-first and user-friendly design using **TailwindCSS**, aligning with the client's brand identity.
+- Launched and maintained the application, including **SSL Certificate** installation.
+- **Tech Stack:** Svelte, Vite, JavaScript, TailwindCSS.
+
+### Front End Web Developer (Apprenticeship)
+
+**ZOMIO Inc. | June 2022 — Sept 2023 | Ponce, PR (Remote)**
+
+- Engineered two real-time, **MQTT**-powered dashboards that visualized hardware device data for the product's MVP.
+- Designed, built, and formatted a responsive company website using **HTML** and **TailwindCSS**, integrating the company’s brand identity.
+- Migrated the domain and configured the DNS on **HostGator**.
+- **Tech Stack:** HTML, CSS, TailwindCSS, JavaScript, PahoMQTT.
+
+### Administrative Assistant
+
+**ZOMIO Inc. | Mar 2019 — June 2022 | Barceloneta, PR (Hybrid)**
+
+- Collaborated with leadership on organizational strategy and daily operations to improve efficiency.
+- Managed executive calendars, prioritized tasks, and facilitated communications across teams.
+- _Note: Showcases transition and strong soft skills in organization and collaboration._
 
 ---
 
